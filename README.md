@@ -14,5 +14,5 @@
 
 ## By the way here are some of my statistics 🚀
 ![My github stats](https://github-readme-stats.vercel.app/api?username=streetCoderr&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak" width="35%"/>
 <!--![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetCoderr&theme=tokyonight&layout=compact)-->

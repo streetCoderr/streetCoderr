@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streetCoderr" alt="akhilgkrishnan" /> </p>
 
 
-- 🔭 I’m currently leading a backend team of fellow junior devs for Renapp; a fintech application that makes it easy for the 'ordinary man' to have easy access to loans. It also enables a wallet system for saving money, making transfers, and paying for bills through the app.
+- 🔭 I’m currently leading a backend team of fellow talents at Segsalerty for project Renapp; a fintech application that makes it easy for the 'ordinary man' to have easy access to loans. It also enables a wallet system for saving money, making transfers, and paying for bills through the app.
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on cool projects with NodeJs or OCaml
 - 🤔 I’m looking for help with a fulltime remote role as a backend developer. 
@@ -14,5 +14,5 @@
 
 ## By the way here are some of my statistics 🚀
 ![My github stats](https://github-readme-stats.vercel.app/api?username=streetCoderr&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak"/>
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetCoderr&theme=tokyonight&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak" width="45%"/>
+<!--![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetCoderr&theme=tokyonight&layout=compact)-->

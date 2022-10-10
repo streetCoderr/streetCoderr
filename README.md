@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streetCoderr" alt="akhilgkrishnan" /> </p>
 
 
-- 🔭 I’m currently leading a backend team of fellow talents at Segsalerty for a fintech application.
+- 🔭 I’m currently co-leading a backend team of fellow talents at Segsalerty for a fintech application.
 - 🌱 Learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on cool projects with NodeJs or OCaml.
 - 🤔 I’m looking for help with a fulltime remote role as a backend developer. 

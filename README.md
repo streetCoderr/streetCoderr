@@ -6,7 +6,7 @@
 - 🔭 I’m currently co-leading a backend team of fellow talents at Segsalerty for a fintech application.
 - 🌱 Learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on cool projects with NodeJs or OCaml.
-- 🤔 I’m looking for help with a fulltime remote role as a backend developer. 
+- 🤔 Opened to a fulltime remote role as a backend developer. 
 -  🛠 Language & Tools: **NodeJs** | **Express** | **TypeScript** | **JavaScript** | **MongoDB/Mongoose** | **SQL/PostgreSql/Sequelize** | **Redis** | **Java** | **C** | **Ocaml** | **git/github** 
 - 💬 Ask me about nodeJs, OCaml, data structures and algorithms, and systems design.
 - 📫 How to reach me: streetcoder99@gmail.com

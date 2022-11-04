@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephen</h1>
+<h1 align="center">Hi, there👋</h1>
 <h3 align="center">I'm a backend developer primarily using nodeJs/Express/Typescript to build web servers and APIs. I also contribute to open source projects particularly in the Ocaml community. I am passionate about contributing and collaborating with other developers on exiting projects</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streetCoderr" alt="akhilgkrishnan" /> </p>
 

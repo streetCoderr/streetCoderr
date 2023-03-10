@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hava a knack for figuring out solutions to complex problems. When I'm not coding, I'm probably reading, playing football, or just staring at the ceiling, doing nothing. Of course, we are not ruling out 'sleeping' and 'eating' here :).
 
-### By the way; some statistics 🚀
+<!--! ### By the way; some statistics 🚀-->
 <!--![My github stats](https://github-readme-stats.vercel.app/api?username=streetCoderr&show_icons=true&theme=tokyonight)-->
 <!--! <img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak"/>-->
 <!--![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetCoderr&theme=tokyonight&layout=compact)-->

@@ -14,5 +14,5 @@
 
 ### By the way; some statistics 🚀
 <!--![My github stats](https://github-readme-stats.vercel.app/api?username=streetCoderr&show_icons=true&theme=tokyonight)-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak"/>
+<!--! <img src="https://github-readme-streak-stats.herokuapp.com/?user=streetCoderr&theme=tokyonight" alt="mystreak"/>-->
 <!--![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetCoderr&theme=tokyonight&layout=compact)-->

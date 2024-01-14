@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streetCoderr" alt="akhilgkrishnan" /> </p>
 
 
-- 🔭 I’m currently trying to dig into Design patterns in nodeJs.
-- 👯 I’m looking to collaborate on cool projects with NodeJs or OCaml.
+- 🔭 I’m currently trying to dig into System Design and Architecture.
+- 👯 I’m looking to collaborate on cool projects, focusing on the backend.
 - 🤔 Opened to a fulltime remote role as a backend developer. 
--  🛠 Language & Tools: **NodeJs** | **Express** | **TypeScript** | **JavaScript** | **MongoDB/Mongoose** | **SQL/PostgreSql/Sequelize/Prisma** | **Redis** | **Java** | **C** | **Ocaml** | **git/github** 
-- 💬 Ask me about nodeJs, OCaml, data structures and algorithms, and design patterns.
+-  🛠 Language & Tools: **NodeJs** | **Express** | **TypeScript** | **JavaScript** | **MongoDB/Mongoose** | **SQL/PostgreSql/Sequelize** | **Redis** | **Java** | **C** | **Ocaml** | **git/github** 
+- 💬 Ask me about nodeJs, OCaml, data structures and algorithms.
 - 📫 How to reach me: streetcoder99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hava a knack for figuring out solutions to complex problems. When I'm not coding, I'm probably reading, playing football, or just staring at the ceiling, doing nothing. Of course, we are not ruling out 'sleeping' and 'eating' here :).
